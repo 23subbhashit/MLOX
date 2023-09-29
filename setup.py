@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="MLOPS-IIITB",
+    name="IIITBMLOPS",
     version="0.0.2",
     author="subbhashit mukherjee",
     author_email="subbhashitmukherjee@gmail.com",
